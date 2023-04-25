@@ -1,17 +1,17 @@
 # Projeto_PrimeitoTrabalhoBimestral
 
 Projeto de Mobile Primeiro Trabalho Bimestral
-#Uma loja de departamentos necessita de uma aplicativo para seus vendedores utilizarem para cadastrar suas vendas, onde possam já fazer pedido da venda e repassar para o cliente. Para isso é necessário possuir as seguintes funcionalidades:
-## a. Possuir campos para informar o nome e cpf do cliente;
-## b. Campos para informar o item, quantidade e valor unitário, e um botão para adicionar o item no pedido;
-## c. Uma lista utilizando para exibir os itens adicionados ao pedido;
-## d. Um campo informando o valor total e total de itens adicionados;
-##e. Abaixo da lista um campo para informar a condição de pagamento (á vista ou á prazo);
-##f. Caso selecionado a prazo, deverá exibir um campo para informar a quantidade de parcelas, e abaixo uma lista informando o valor de cada parcela;
-## g. Um campo para exibir o valor total do pedido, onde para vendas a vista deverá ter um desconto de 5% no valor total, e a prazo adicionar o acréscimo de 5% no valor total;
-## h. Um botão para concluir o pedido, exibindo uma mensagem informando que o pedido de venda foi cadastrado com sucesso;
+##### Uma loja de departamentos necessita de uma aplicativo para seus vendedores utilizarem para cadastrar suas vendas, onde possam já fazer pedido da venda e repassar para o cliente. Para isso é necessário possuir as seguintes funcionalidades:
+##### a. Possuir campos para informar o nome e cpf do cliente;
+##### b. Campos para informar o item, quantidade e valor unitário, e um botão para adicionar o item no pedido;
+##### c. Uma lista utilizando para exibir os itens adicionados ao pedido;
+##### d. Um campo informando o valor total e total de itens adicionados;
+##### e. Abaixo da lista um campo para informar a condição de pagamento (á vista ou á prazo);
+##### f. Caso selecionado a prazo, deverá exibir um campo para informar a quantidade de parcelas, e abaixo uma lista informando o valor de cada parcela;
+##### g. Um campo para exibir o valor total do pedido, onde para vendas a vista deverá ter um desconto de 5% no valor total, e a prazo adicionar o acréscimo de 5% no valor total;
+##### h. Um botão para concluir o pedido, exibindo uma mensagem informando que o pedido de venda foi cadastrado com sucesso;
 
-#Características técnicas:
+## Características técnicas:
 
 ### 1. Para cada processo deverá validar se o campos digitados não estão nulos;
 ### 2. Validar campo de valores para não deixar adicionar valores < = 0 (zero);
