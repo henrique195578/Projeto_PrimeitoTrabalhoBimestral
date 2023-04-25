@@ -15,7 +15,7 @@ Projeto de Mobile Primeiro Trabalho Bimestral
 
 ### 1. Para cada processo deverá validar se o campos digitados não estão nulos;
 ### 2. Validar campo de valores para não deixar adicionar valores < = 0 (zero);
-###3. Deverá ter um campo para gerar o código do pedido, ao digitar o código do pedido deverá ser capaz de retornar as informações do pedido em questão;
+### 3. Deverá ter um campo para gerar o código do pedido, ao digitar o código do pedido deverá ser capaz de retornar as informações do pedido em questão;
 ### 4. Código do pedido deve ser gerado automaticamente;
 ### 5. Ao concluir o pedido deverá ser exibido uma mensagem informando que o pedido foi cadastrado com sucesso exibindo o número do pedido (Toast);
 ### 6. Ao concluir o pedido todos os campos deverão ser "limpos", e gerado um novo código de pedido.
