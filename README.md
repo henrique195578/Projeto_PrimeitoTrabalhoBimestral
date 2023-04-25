@@ -1,4 +1,4 @@
-# Projeto_PrimeitoTrabalhoBimestral
+# Projeto_Primeiro_TrabalhoBimestral
 
 Projeto de Mobile Primeiro Trabalho Bimestral
 ##### Uma loja de departamentos necessita de uma aplicativo para seus vendedores utilizarem para cadastrar suas vendas, onde possam já fazer pedido da venda e repassar para o cliente. Para isso é necessário possuir as seguintes funcionalidades:
